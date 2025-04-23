@@ -20,5 +20,5 @@ The Detection Lab project aimed to establish a controlled environment for simula
 - Telemetry generation tools to create realistic network traffic and attack scenarios.
 
 ## Steps
-drag & drop screenshots here or use imgur and reference them using imgsrc
+
 <img width="766" alt="FIREWALL LAB" src="https://github.com/user-attachments/assets/4310de39-4769-43ef-8b30-8fed702ab8df" />
